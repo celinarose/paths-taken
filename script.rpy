@@ -361,6 +361,8 @@ label startgame:
     scene bg emorystudy 
     with fade 
 
+# Extra scene???
+
 # label imagemap1:
 
 # scene emorystudy
@@ -566,6 +568,8 @@ if sit == 'sat':
     e "So..."
     
     stop music
+    
+    #change music??
     
     #play music "emotionalmusic.mp3" fadeout 1
     #queue music "emotionalmusic.mp3"
